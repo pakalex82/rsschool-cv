@@ -9,7 +9,7 @@ Skills: I am studying the JavaScript.
 
 Education: Tashkent State Technical University, 1999 - 2003
 
-Languages: English, pre-intermediate.
+Languages: English, pre-intermediate. Russian, fluent.
 
 Find The Duplicated Number in a Consecutive Unsorted List, example of code:
 
